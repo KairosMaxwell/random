@@ -1,0 +1,19 @@
+Student name: Tiffany
+score: 55
+Student name: Kyle
+score: 80.1
+Student name: Celeste
+score: 96
+Student name: John
+score: 64.9
+Student name: END
+
+
+Class average score is 74.0
+Highest score of 96.0 is achieved by  Celeste !
+Student Name     Grade
+     ====      ====
+  Tiffany      55.0
+     Kyle      80.1
+  Celeste      96.0
+     John      64.9
